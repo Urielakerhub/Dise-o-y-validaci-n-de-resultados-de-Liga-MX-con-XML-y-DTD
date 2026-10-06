@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
+<liga temporada="Apertura 2026" competencia="Liga MX">
+    <jornada numero="10" fecha="2026-09-27">
+
+        <partido id="P001" fecha="2026-09-27" estadio="Estadio Olímpico Universitario" estado="Finalizado">
+            <equipoLocal>
+                <nombre>Pumas</nombre>
+            </equipoLocal>
+            <equipoVisitante>
+                <nombre>Atlético San Luis</nombre>
+            </equipoVisitante>
+            <marcador>
+                <golesLocal>2</golesLocal>
+                <golesVisitante>3</golesVisitante>
+            </marcador>
+        </partido>
+
+        <partido id="P002" fecha="2026-09-27" estadio="Estadio Universitario" estado="Finalizado">
+            <equipoLocal>
+                <nombre>Tigres</nombre>
+            </equipoLocal>
+            <equipoVisitante>
+                <nombre>Puebla</nombre>
+            </equipoVisitante>
+            <marcador>
+                <golesLocal>1</golesLocal>
+                <golesVisitante>0</golesVisitante>
+            </marcador>
+        </partido>
+
+        <partido id="P003" fecha="2026-09-27" estadio="Estadio Corona" estado="Finalizado">
+            <equipoLocal>
+                <nombre>Santos Laguna</nombre>
+            </equipoLocal>
+            <equipoVisitante>
+                <nombre>Pachuca</nombre>
+            </equipoVisitante>
+            <marcador>
+                <golesLocal>1</golesLocal>
+                <golesVisitante>0</golesVisitante>
+            </marcador>
+        </partido>
+
+    </jornada>
+</liga>
